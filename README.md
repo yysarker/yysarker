@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yysarker
 - 👀 I’m interested in Programming, 3D Modeling, Video Making, and Animating 
-- 🌱 I’m currently learning ReactJs, Redux ThreeJS, Blander. 
+- 🌱 I’m currently ThreeJS, Blander, Vue.js. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
