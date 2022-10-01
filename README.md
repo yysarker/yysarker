@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yysarker
-- 👀 I’m interested in Programming, Front-End Web Development, 3D Modeling, Video Making, and Animating. 
-- 🌱 I’m currently ThreeJS, Blander, Vue.js. 
+- 👀 I’m interested in Programming, Full-Stack web development, Video Making, and Animating. 
+- 🌱 I’m currently working on MERN Stack. Also, I have hands-on experience on LAMP Stack. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
